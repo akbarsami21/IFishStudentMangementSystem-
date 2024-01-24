@@ -1,4 +1,4 @@
-Ifish School Management System
+# Ifish School Management System
 
 ![ss-1](https://github.com/akbarsami21/IFish-Student-Mangement-System/assets/109865799/4eb3bdf3-6d40-4478-9a47-9602e0e57bcc)
 ![ss-2](https://github.com/akbarsami21/IFish-Student-Mangement-System/assets/109865799/08cf70aa-2b1b-4e00-8e29-b51973d1cde2)
